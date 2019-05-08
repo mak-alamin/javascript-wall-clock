@@ -1,0 +1,7 @@
+.wallClock{
+    max-width: 600px;
+    margin: 0 auto;
+}
+canvas{
+ background: #333;
+}
