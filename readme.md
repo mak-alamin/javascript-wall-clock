@@ -1,10 +1,10 @@
 # JavaScript Wall Clock
-This is an analogue wall clock using raw JavaScript with html canvas element.
+This is an analogue wall clock created with raw JavaScript and html canvas element.
 
-### Demo
+## Demo
 View on Codepen - [https://codepen.io/makalamin/pen/rgOPEX]
 
-### Dependencies
+## Dependencies
 No Dependencies! Written in pure javascript
 
 ### Tutorial Credit and special thanks to
